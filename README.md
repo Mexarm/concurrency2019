@@ -1,2 +1,3 @@
-# chipy2019
-Examples for a talk at ChiPy — June 26, 2019.
+# concurrency-2019
+
+Examples and exercises for a 3h workshop on Python concurrent programming techniques
